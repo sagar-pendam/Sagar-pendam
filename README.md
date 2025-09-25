@@ -53,8 +53,9 @@ Python + MySQL
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?sagar-pendam&=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-pendam&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
 
 
 ---
