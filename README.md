@@ -28,7 +28,7 @@
 React + Firebase + Tailwind + Framer Motion  
 > A responsive online shopping platform with cart, orders, and authentication features.  
 
-### 🎬 [https://github.com/sagar-pendam/movie-search-app)
+### 🎬[Movie-Search-App]([https://github.com/sagar-pendam/movie-search-app)
 React + Firebase Auth + IMDb API  
 > Search and save favorite movies with authentication and Firestore integration.  
 
