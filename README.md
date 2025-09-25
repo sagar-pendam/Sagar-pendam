@@ -36,7 +36,7 @@ React + Firebase Auth + IMDb API
 HTML + CSS + ReactJS + WeatherAPI  
 > Simple weather application using WeatherAPI to fetch live data.  
 
-### 🏥 [https://github.com/sagar-pendam/HMS)
+### 🏥 [Hospital Management System](https://github.com/sagar-pendam/HMS)
 Python + MySQL  
 > Standalone system for hospital record management with database connectivity.  
 
