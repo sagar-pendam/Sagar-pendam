@@ -10,7 +10,7 @@
 - 🔨 Built multiple projects including an **E-Commerce App**, **Movie Search App**, **Weather App**, and a **Hospital Management System**.  
 - 🌱 Currently sharpening my skills in **React, Next.js, and Firebase**.  
 - 🤝 Actively contributing to **open-source projects** and exploring collaborative development.  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sagar-pendam-630384269/) | [Portfolio](https://github.com/sagar-pendam)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sagar-pendam-630384269/) | [Portfolio](https://my-portfolio-iota-five-71.vercel.app/)
 
 ---
 
