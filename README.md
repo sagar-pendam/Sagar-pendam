@@ -1,6 +1,6 @@
 # Hi, I'm Sagar 👋
 
-🎯 **Aspiring React Engineer | MCA Student | Java Full Stack Developer**  
+🎯 **Aspiring React Engineer | Java Full Stack Developer**  
 💻 Passionate about building scalable web applications and contributing to open source.  
 
 ---
