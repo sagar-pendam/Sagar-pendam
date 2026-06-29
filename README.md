@@ -53,12 +53,6 @@ LangChain + LangGraph + OpenAI + FAISS
 
 ---
 
-## 🤖 Multi-Agent Workflow System
-
-- Developed **multi-agent AI workflows**
-- Implemented communication using **A2A and MCP protocols**
-- Integrated APIs and databases for task automation
-
 ---
 
 ## 🛒 E-Commerce Platform
